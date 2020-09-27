@@ -1,8 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# Auto install akeh tools :v
-# coded by verluchie
-# Eggyaprilianto@gmail.com
-# 08102017
+
 
 # Bersihkan Layar
 apt install ruby
